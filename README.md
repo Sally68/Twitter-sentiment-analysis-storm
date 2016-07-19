@@ -10,7 +10,7 @@ A visualization of real time twitter sentiment powered by storm and d3
 6. `cd /vagrant/viz in another tab/terminal window`
 7. `python app.py`
 8. Navigate to `localhost:5000`
-9. See Viz ![Example](viz/example.png)
+
 
 ## Visualization Key
 A circle for each tweet is plotted at the latitude and longitude from which it originated. Blue is positive emotion, red is negative, and white is neutral.
